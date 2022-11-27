@@ -1,3 +1,4 @@
 #this project is for service maintainance
 #redirect any error to error  file
 #keep all output in log file for future refrence 
+this is a front end application
